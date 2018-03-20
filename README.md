@@ -1,2 +1,2 @@
 # Experiment01
-Test collaboration for homework assignment
+Experiment for GitHub link to Stride
